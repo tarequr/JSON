@@ -1,0 +1,51 @@
+{
+  "students": [
+    {
+      "name": "Tarequr Rahman Sabbir",
+      "age": 25,
+      "CGPA": 3.25,
+      "isRegistered": true,
+      "language": [
+        "Bangali",
+        "English",
+        "Arabic",
+        "Hindi"
+      ],
+      "friends": [
+        {
+          "name": "Nazmus Shakib",
+          "age": 25,
+          "city": "Barishal"
+        },
+        {
+          "name": "Rafiqul Islam",
+          "age": 25,
+          "city": "Pabna"
+        }
+      ]
+    },
+    {
+      "name": "Juhana Ahmed",
+      "age": 20,
+      "CGPA": 3.5,
+      "isRegistered": false,
+      "language": [
+        "Bangali",
+        "English",
+        "Hindi"
+      ],
+      "friends": [
+        {
+          "name": "Nafija Ahmed",
+          "age": 20,
+          "city": "Barishal"
+        },
+        {
+          "name": "Raisa Islam",
+          "age": 20,
+          "city": "Barishal"
+        }
+      ]
+    }
+  ]
+}

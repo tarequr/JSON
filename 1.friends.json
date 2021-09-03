@@ -1,0 +1,14 @@
+{
+	"friends" : [
+		{
+			"name" : "Tarequr Rahman Sabbir",
+			"age"  : 25,
+			"city" : "Barishal" 
+		},
+		{
+			"name" : "Tanjim Hasan Rafin",
+			"age"  : 4,
+			"city" : "Bamrail"
+		}
+	]
+}
